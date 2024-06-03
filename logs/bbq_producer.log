@@ -1,0 +1,37 @@
+2024-06-02 22:17:46,413.bbq_producer.INFO ==================================================
+2024-06-02 22:17:46,414.bbq_producer.INFO Today is 2024-06-02 at 10:17 PM
+2024-06-02 22:17:46,414.bbq_producer.INFO Running on: nt Windows 10
+2024-06-02 22:17:46,414.bbq_producer.INFO Python version:  3.11.9
+2024-06-02 22:17:46,415.bbq_producer.INFO Python path: C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0
+2024-06-02 22:17:46,415.bbq_producer.INFO Working dir: C:\Users\cbram\streaming-05-smart-smoker
+2024-06-02 22:17:46,415.bbq_producer.INFO ==================================================
+2024-06-02 22:17:46,439.bbq_producer.INFO [X] Sent message to queue 01-smoker: 5/22/2021 12:20, 84.2
+2024-06-02 22:18:16,476.bbq_producer.INFO [X] Sent message to queue 01-smoker: 5/22/2021 12:20, 84.2
+2024-06-02 22:18:46,515.bbq_producer.INFO [X] Sent message to queue 01-smoker: 5/22/2021 12:21, 87.6
+2024-06-02 22:19:16,554.bbq_producer.INFO [X] Sent message to queue 01-smoker: 5/22/2021 12:21, 87.6
+2024-06-02 22:19:46,592.bbq_producer.INFO [X] Sent message to queue 01-smoker: 5/22/2021 12:22, 86.3
+2024-06-02 22:20:16,635.bbq_producer.INFO [X] Sent message to queue 01-smoker: 5/22/2021 12:22, 86.3
+2024-06-02 22:20:46,686.bbq_producer.INFO [X] Sent message to queue 01-smoker: 5/22/2021 12:23, 92
+2024-06-02 22:21:16,729.bbq_producer.INFO [X] Sent message to queue 01-smoker: 5/22/2021 12:23, 92
+2024-06-02 22:21:46,774.bbq_producer.INFO [X] Sent message to queue 01-smoker: 5/22/2021 12:24, 96.8
+2024-06-02 22:22:16,814.bbq_producer.INFO [X] Sent message to queue 01-smoker: 5/22/2021 12:24, 96.8
+2024-06-02 22:22:46,854.bbq_producer.INFO [X] Sent message to queue 01-smoker: 5/22/2021 12:25, 100.6
+2024-06-02 22:23:16,894.bbq_producer.INFO [X] Sent message to queue 01-smoker: 5/22/2021 12:25, 100.9
+2024-06-02 22:23:46,938.bbq_producer.INFO [X] Sent message to queue 01-smoker: 5/22/2021 12:25, 100.9
+2024-06-02 22:24:16,995.bbq_producer.INFO [X] Sent message to queue 01-smoker: 5/22/2021 12:26, 104.8
+2024-06-02 22:24:47,034.bbq_producer.INFO [X] Sent message to queue 01-smoker: 5/22/2021 12:26, 104.8
+2024-06-02 22:25:17,077.bbq_producer.INFO [X] Sent message to queue 01-smoker: 5/22/2021 12:27, 108.2
+2024-06-02 22:25:47,116.bbq_producer.INFO [X] Sent message to queue 01-smoker: 5/22/2021 12:27, 108.2
+2024-06-02 22:26:17,158.bbq_producer.INFO [X] Sent message to queue 01-smoker: 5/22/2021 12:28, 111.4
+2024-06-02 22:26:47,201.bbq_producer.INFO [X] Sent message to queue 01-smoker: 5/22/2021 12:28, 111.4
+2024-06-02 22:27:17,240.bbq_producer.INFO [X] Sent message to queue 01-smoker: 5/22/2021 12:29, 114.2
+2024-06-02 22:27:47,281.bbq_producer.INFO [X] Sent message to queue 01-smoker: 5/22/2021 12:29, 114.2
+2024-06-02 22:28:17,324.bbq_producer.INFO [X] Sent message to queue 01-smoker: 5/22/2021 12:30, 116.9
+2024-06-02 22:28:47,373.bbq_producer.INFO [X] Sent message to queue 01-smoker: 5/22/2021 12:30, 116.9
+2024-06-02 22:29:17,415.bbq_producer.INFO [X] Sent message to queue 01-smoker: 5/22/2021 12:31, 119.4
+2024-06-02 22:29:47,458.bbq_producer.INFO [X] Sent message to queue 01-smoker: 5/22/2021 12:31, 119.4
+2024-06-02 22:30:17,500.bbq_producer.INFO [X] Sent message to queue 01-smoker: 5/22/2021 12:32, 120.1
+2024-06-02 22:30:47,540.bbq_producer.INFO [X] Sent message to queue 01-smoker: 5/22/2021 12:32, 120.1
+2024-06-02 22:31:17,583.bbq_producer.INFO [X] Sent message to queue 01-smoker: 5/22/2021 12:33, 106.2
+2024-06-02 22:31:47,626.bbq_producer.INFO [X] Sent message to queue 01-smoker: 5/22/2021 12:33, 106.2
+2024-06-02 22:32:17,666.bbq_producer.INFO [X] Sent message to queue 01-smoker: 5/22/2021 12:34, 103.5
