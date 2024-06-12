@@ -86,7 +86,7 @@ def read_tasks(file_path: str):
             if food_b_temp != '':
                 send_message(timestamp, food_b_temp, '03-food-B')
                                          
-            time.sleep(30)
+            time.sleep(1)
                
 # Standard Python idiom to indicate main program entry point
 # This allows us to import this module and use its functions
@@ -99,6 +99,6 @@ if __name__ == "__main__":
     # create variables   
     file_name = 'smoker-temps.csv'
     host = "localhost"
-    queues = ["01-smoker", "02-food-A", "03-food-B"]
+    queues = ["01-smoker", "02-food-A", "03-food-B"]   
     #send message to the queue
     read_tasks(file_name)
